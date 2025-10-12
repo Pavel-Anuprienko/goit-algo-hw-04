@@ -1,0 +1,5 @@
+Alex Korp,3000
+Nikita Borisenko,2000
+Загальна сума заробітної плати: 6000, Середня заробітна плата: 2000.0
+Sitarama Raju,1000
+Sitarama Borisenko,1000
